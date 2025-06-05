@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.courseflow.app;
 
 /**
  * Hello world!
