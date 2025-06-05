@@ -14,7 +14,3 @@ class Course:
         self._breadth = []
         self._hours = {"L": 0, "T": 0}
         self._credNCred = None
-
-if __name__ == '__main__':
-    import doctest
-    doctest.testmod()
